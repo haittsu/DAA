@@ -1,6 +1,7 @@
-   target/
-   out/
-   .idea/
-   *.iml
-   .vscode/
-   .DS_Store
+target/
+out/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+results/
